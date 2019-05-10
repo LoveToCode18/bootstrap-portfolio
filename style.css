@@ -57,3 +57,18 @@ height: 82vh;
 .fa {
     margin: 6px 8px;
 }
+
+
+img:hover{
+float: inherit;
+background-size: 100%;
+margin: 2px;
+transition:0.5s;
+cursor: pointer;
+}
+p{
+    font-family: sans-serif;
+}
+.portfolio-h2{
+    color: #111;
+}
