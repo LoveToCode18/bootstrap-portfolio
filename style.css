@@ -1,5 +1,5 @@
 body{
-    background-color: #fff;
+    background-color: #f8f9fa;
 }
 .contact{
     padding: 4%;
@@ -71,4 +71,14 @@ p{
 }
 .portfolio-h2{
     color: #111;
+}
+.jumbotron{
+    background-color: #343a40;
+    color: #fff;
+}
+.container-fluid{
+    background-color: #f8f9fa;
+}
+h5{
+    margin-top: 6px;
 }
